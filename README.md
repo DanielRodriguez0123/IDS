@@ -32,3 +32,12 @@
    ```bash
    git clone https://github.com/tu-usuario/ids-icmp-dos.git
    cd ids-icmp-dos
+
+---
+## Imagenes
+
+![image](https://github.com/user-attachments/assets/b1078ac8-6e4d-42ae-b59f-efb1ca244ee6)
+![image](https://github.com/user-attachments/assets/402e4a1f-c6f0-45c8-a96a-6e712a2e6721)
+![image](https://github.com/user-attachments/assets/0ec5de04-8c76-470c-b467-3c62fd88d442)
+
+
